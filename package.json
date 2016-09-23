@@ -1,0 +1,35 @@
+{
+  "name": "indiangirl",
+  "version": "0.0.1",
+  "description": "Search Indian Baby Girl names for your new born baby girl.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wantedvikas/random_indian_girl_name.git"
+  },
+  "keywords": [
+    "cli",
+    "girl",
+    "names",
+    "indian",
+    "random"
+  ],
+  "author": "Vikas Ghodke <vikasghodkester@gmail.com> (http://vikasghodke.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wantedvikas/random_indian_girl_name/issues"
+  },
+  "homepage": "https://github.com/wantedvikas/random_indian_girl_name#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "meow": "^3.7.0",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "meow": "^3.7.0",
+    "unique-random-array": "^1.0.0"
+  }
+}
