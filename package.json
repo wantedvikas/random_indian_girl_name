@@ -6,6 +6,15 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
+  "bin": "girl-cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js",
+    "girl-cli.js",
+    "girls.json"
+],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wantedvikas/random_indian_girl_name.git"
