@@ -4,7 +4,7 @@ const indiangirl = require('./');
 
 const cli = meow ({
 	Help: [
-		'Examples''
+		'Examples',
 		'	$ indiangirl',
 		'	Aahana',
 		'',
