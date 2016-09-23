@@ -1,8 +1,8 @@
 'use strict';
-const meow = require('meow');
-const indiangirl = require('./');
+var meow = require('meow');
+var indiangirl = require('./');
 
-const cli = meow ({
+var cli = meow ({
 	Help: [
 		'Examples',
 		'	$ indiangirl',
