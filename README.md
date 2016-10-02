@@ -13,9 +13,9 @@ $ npm install --save indiangirl
 ## Usage
 
 ```js
-const catNames = require('indiangirl');
+const indiangirl = require('indiangirl');
 
-catNames.random();
+indiangirl.random();
 //=> 'Aaradhiya'
 ```
 
